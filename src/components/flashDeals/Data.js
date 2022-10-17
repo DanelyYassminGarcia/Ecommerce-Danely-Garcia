@@ -5,6 +5,7 @@ const Data = {
       discount: "50",
       cover: "./images/SlideCard/manga03.jpg",
       name: "Manga",
+      detail: "Manga OnePiece",
       price: 400,
     },
     {
@@ -12,6 +13,7 @@ const Data = {
       discount: "50",
       cover: "./images/SlideCard/manga03.jpg",
       name: "Manga",
+      detail: "Manga OnePiece",
       price: 400,
     },
     {
@@ -19,6 +21,7 @@ const Data = {
       discount: "50",
       cover: "./images/SlideCard/manga03.jpg",
       name: "Manga",
+      detail: "Manga OnePiece",
       price: 400,
     },
     {
@@ -26,6 +29,7 @@ const Data = {
       discount: "50",
       cover: "./images/SlideCard/manga03.jpg",
       name: "Manga",
+      detail: "Manga OnePiece",
       price: 400,
     },
     {
@@ -33,6 +37,7 @@ const Data = {
       discount: "50",
       cover: "./images/SlideCard/manga03.jpg",
       name: "Manga",
+      detail: "Manga OnePiece",
       price: 400,
     },
   ],

@@ -20,6 +20,7 @@ const Cart = ({cartItem, addToCart, decreaseQty}) => {
                                 </div>
                                 <div className='cart-details'>
                                     <h3>{item.name}</h3>
+                                    <h4>{item.detail}</h4>
                                     <h4>${item.price}.00 * {item.qty}
                                         <span>${productQty}.00</span>
                                     </h4>

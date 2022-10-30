@@ -3,7 +3,7 @@ const Data = {
     {
       id: 1,
       discount: "50",
-      cover: "./images/SlideCard/manga03.jpg",
+      cover: "./images/SlideCard/manga02.jpg",
       name: "Manga",
       detail: "Manga OnePiece",
       price: 400,
@@ -19,7 +19,7 @@ const Data = {
     {
       id: 3,
       discount: "50",
-      cover: "./images/SlideCard/manga03.jpg",
+      cover: "./images/SlideCard/manga04.jpg",
       name: "Manga",
       detail: "Manga OnePiece",
       price: 400,
@@ -27,7 +27,7 @@ const Data = {
     {
       id: 4,
       discount: "50",
-      cover: "./images/SlideCard/manga03.jpg",
+      cover: "./images/SlideCard/manga05.jpg",
       name: "Manga",
       detail: "Manga OnePiece",
       price: 400,
@@ -35,7 +35,7 @@ const Data = {
     {
       id: 5,
       discount: "50",
-      cover: "./images/SlideCard/manga03.jpg",
+      cover: "./images/SlideCard/manga06.jpg",
       name: "Manga",
       detail: "Manga OnePiece",
       price: 400,

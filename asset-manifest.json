@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-Danely-Garcia/static/css/main.2714d96e.css",
+    "main.js": "/Ecommerce-Danely-Garcia/static/js/main.742acd27.js",
+    "static/js/787.21aef0a1.chunk.js": "/Ecommerce-Danely-Garcia/static/js/787.21aef0a1.chunk.js",
+    "static/media/logo.jpg": "/Ecommerce-Danely-Garcia/static/media/logo.42d63721fc2af01a5508.jpg",
+    "static/media/slick.svg": "/Ecommerce-Danely-Garcia/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Ecommerce-Danely-Garcia/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Ecommerce-Danely-Garcia/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Ecommerce-Danely-Garcia/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Ecommerce-Danely-Garcia/index.html",
+    "main.2714d96e.css.map": "/Ecommerce-Danely-Garcia/static/css/main.2714d96e.css.map",
+    "main.742acd27.js.map": "/Ecommerce-Danely-Garcia/static/js/main.742acd27.js.map",
+    "787.21aef0a1.chunk.js.map": "/Ecommerce-Danely-Garcia/static/js/787.21aef0a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2714d96e.css",
+    "static/js/main.742acd27.js"
+  ]
+}
